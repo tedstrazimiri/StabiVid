@@ -1,3 +1,3 @@
 # StabiVid
  
-python stabilize.py --input_path Saturday10kx_extract.mp4
+python stabilize.py --input_path video_name.mp4
